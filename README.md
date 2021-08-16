@@ -1,4 +1,6 @@
-### Hi there 👋
+### YooJeongMin Profile
+🌱 Junior Developer
+Java, C, Android, MySQL
 
 <!--
 **Jeongminyooa/Jeongminyooa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
