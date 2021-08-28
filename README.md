@@ -6,7 +6,8 @@
   
 ### 👉 **Me** 👈 
 [![Insta Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yooa_dev/) &nbsp; [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat)](https://jeongminyooa.tistory.com/)&nbsp;
-
+  
+Hi there , 
 ### :computer: **Tech Stack** 
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/Jeongminyooa/Algorithm_Java)&nbsp;[![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/Jeongminyooa/Algorithm_C)&nbsp;![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)&nbsp;![JS Badge](https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)&nbsp;![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)&nbsp;![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)&nbsp;![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 
