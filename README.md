@@ -5,6 +5,7 @@
 ### ✨ **My**
 [![Insta Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yooa.dev/) &nbsp; [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory)](https://jeongminyooa.tistory.com/)&nbsp;[![Portfolio Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion)](https://insidious-spike-642.notion.site/Jeongmin-Yoo-4e279dd624064e6388bed1e278e77b82)&nbsp;
   
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongminyooa%2Fhit-counter&count_bg=%23CBC5C5&title_bg=%23000000&icon=github.svg&icon_color=%23CBC5C5&title=today+%2F+total&edge_flat=true)
   
 ### :computer: **Tech Stack** 
 
@@ -28,10 +29,3 @@
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![NodeJs Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![express Badge](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
-
-  ---
-  
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongminyooa%2Fhit-counter&count_bg=%23CBC5C5&title_bg=%23000000&icon=github.svg&icon_color=%23CBC5C5&title=today+%2F+total&edge_flat=true)
-
-![jm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongminyooa&bg_color=red,orange,yellow)
-</div>
