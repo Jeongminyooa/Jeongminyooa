@@ -7,7 +7,14 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion)]([https://insidious-spike-642.notion.site/Jeongmin-Yoo-4e279dd624064e6388bed1e278e77b82](https://yooa.notion.site/4e279dd624064e6388bed1e278e77b82))
 
 
-## :computer: **Tech Stack** 
+## Awards
+- 2022.12.16 제 4회 kakao x goorm 구름톤 최우수상 : [🔗 Repository](https://github.com/Jeongminyooa/MyTamla-BackEnd)
+- 2022.11.05 국민은행 소프트웨어 경진대회 특별상 : [🔗 Repository](https://github.com/Jeongminyooa/ReValue-BackEnd)
+- 2022.10.19 파블로항공 기업 프로젝트 대상 [🔗 Repository](https://github.com/Jeongminyooa/Pablo-air-assignment-qr-scan)
+- 2022.05.28 KUSITMS 25기 밋업데이 장려상 [🔗 Repository](https://github.com/Jeongminyooa/forPet-backend)
+- 2021.12.28 코드클럽 과학기술정보통신부 장관상
+
+## **Tech Stack** 
 
 **Language** : 
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/Jeongminyooa/Algorithm_Java)&nbsp;
