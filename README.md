@@ -25,7 +25,7 @@
 
 **Framework**
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
-![SpringBoot Badge](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
+![SpringBoot Badge](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
 
 **Database** : 
