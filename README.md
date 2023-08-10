@@ -1,7 +1,7 @@
 
 ## 🌱 Jeongmin
-스스로의 지식을 일반화하여 많은 사람들이 이해하기 쉽도록 전달하는 과정에서 즐거움과 성취감을 느낍니다.
-나의 코드는 지식을 담은 일종의 문서화라고 생각하고 작성합니다. 내 코드를 읽는 사람들이 잘 이해하고 긍정적인 영향을 받을 수 있도록 코드 가독성과 명확성을 신경 쓰고 적극적으로 관리하려고 노력합니다.
+**스스로의 지식을 일반화하여 많은 사람들이 이해하기 쉽도록 전달하는 과정**에서 즐거움과 성취감을 느낍니다.<br>
+나의 코드는 **지식을 담은 일종의 문서화**라고 생각하고 작성합니다. 내 코드를 읽는 사람들이 잘 이해할 수 있도록 가독성과 명확성을 신경 쓰고 적극적으로 관리하려고 노력합니다.
 
 > [![Insta Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yooa.dev/)<br>
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@jmjmjmz732002)<br>
