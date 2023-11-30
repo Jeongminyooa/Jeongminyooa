@@ -6,7 +6,7 @@
 
 
 ## 🏆 Awards
-- 2023.11.14 2023 관광데이터 활용 공모전 우수상
+- 2023.11.29 2023 관광데이터 활용 공모전 우수상
 - 2022.12.16 제 4회 kakao x goorm 구름톤 최우수상 : [🔗 Repository](https://github.com/Jeongminyooa/MyTamla-BackEnd)
 - 2022.11.05 국민은행 소프트웨어 경진대회 특별상 : [🔗 Repository](https://github.com/Jeongminyooa/ReValue-BackEnd)
 - 2022.10.19 파블로항공 기업 프로젝트 대상 [🔗 Repository](https://github.com/Jeongminyooa/Pablo-air-assignment-qr-scan)
